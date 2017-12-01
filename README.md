@@ -1,3 +1,2 @@
 # H-V
-Undergraduate Research Program
-This repository contains my work for the undergraduate research. We give an theoretical explanation for H/V ratio peak frequencies based on numerical simulation. The manuscript is in submission for BSSA.
+This repository contains my work for the undergraduate research. We give an theoretical explanation for H/V ratio peak frequencies based on numerical simulation. The manuscript is in submission for BSSA. The file 'HoverV' contains MATLAB files for computing H/V ratio. 'HVpy' contains the Python files for generating input files for simulation and for plotting the result. The figures and the draft of our thesis are in the folder 'result'.
